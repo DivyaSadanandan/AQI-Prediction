@@ -1,2 +1,2 @@
-# Data-Science
-Data Science &amp; Analytics
+# AQI Prediction
+AQI Prediction
